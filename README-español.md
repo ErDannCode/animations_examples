@@ -6,3 +6,7 @@ Podrás revisar el código de los mismos e incluso si así lo deseas, podrías u
 
 **Cabe recalcar también, que la inmensa mayoría por ahora lo tengo planeado hacer con puro HTML & CSS, por lo que quizá no será de lo más óptimo. 
 En un futuro también añadiré algunas con JavaScript y más elaboradas.** 
+
+###### Otros lenguajes:
+
+- [English](./README.md)
