@@ -1,6 +1,6 @@
 # Some Login Examples for web pages.
 
-In general, what you will be able to find in this section are all the files made by me of some ** Login Forms ** COMPLETELY free.
+In general, what you will be able to find in this section are all the files made by me of some **Login Forms** COMPLETELY free.
 
 You can review the code of the same and even if you wish, you could use it on your website.
 
